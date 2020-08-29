@@ -3,4 +3,4 @@
 
 ![Start Menu](https://raw.githubusercontent.com/SymPiracha/Laser-Shooter/master/Laser%20Defender/Screenshot_1.png)
 
-![Game Screen](/LaserDefender/Screenshot_2.png)
+![Game Screen](https://raw.githubusercontent.com/SymPiracha/Laser-Shooter/master/Laser%20Defender/Screenshot_2.png)
